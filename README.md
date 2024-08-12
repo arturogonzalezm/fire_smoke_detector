@@ -33,8 +33,8 @@ graph TD
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/fire-detection-system.git
-   cd fire-detection-system
+   git clone https://github.com/arturogonzalezm/fire_smoke_detector.git
+   cd fire_smoke_detector
    ```
 
 2. Install the required dependencies:
